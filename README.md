@@ -42,7 +42,8 @@ This is a Secure ATM Simulator implemented in Python, providing real-time intera
 4. Run the ATM simulator:
 
     ```bash
-    python atm_simulator.py
+    python SecureATMSimulator.py
+
     ```
 
 ## Usage
